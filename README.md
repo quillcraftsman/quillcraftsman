@@ -3,7 +3,6 @@ I am software develper from Georgia
 
 - 🔭 I’m currently working on several open source projects
 - 🌱 I’m currently teaching python
-- 💬 Ask me about development
 - 📫 You can mail me: mailto:quill@craftsman.lol
 - ⚡ My website is: http://quillcraftsman.lol
 
