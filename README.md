@@ -4,7 +4,7 @@ I am software develper from Georgia
 - 🔭 I’m currently working on several open source projects
 - 🌱 I’m currently teaching python
 - 📫 You can mail me: mailto:quill@craftsman.lol
-- ⚡ My website is: http://quillcraftsman.lol
+- ⚡ My website is: [http://quillcraftsman.lol](https://quillcraftsman.github.io/my-website/index.html)
 
 <!--
 **quillcraftsman/quillcraftsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
