@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there. I'm @quillcraftsman (Levan Lomidze) 👋
+I am software develper from Georgia
+
+- 🔭 I’m currently working on several open source projects
+- 🌱 I’m currently teaching python
+- 💬 Ask me about development
+- 📫 You can mail me: mailto:quill@craftsman.lol
+- ⚡ My website is: http://quillcraftsman.lol
 
 <!--
 **quillcraftsman/quillcraftsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
