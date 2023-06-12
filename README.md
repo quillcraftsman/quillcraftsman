@@ -3,8 +3,8 @@ I am software develper from Georgia
 
 - 🔭 I’m currently working on several open source projects
 - 🌱 I’m currently teaching python
-- 📫 You can mail me: mailto:quill@craftsman.lol
-- ⚡ My website is: [http://quillcraftsman.lol](https://quillcraftsman.github.io/my-website/index.html)
+- 📫 You can mail me: [quill@craftsman.lol](mailto:quill@craftsman.lol)
+- ⚡ My website is: [craftsman.lol](https://craftsman.lol)
 
 <!--
 **quillcraftsman/quillcraftsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
