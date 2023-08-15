@@ -1,5 +1,5 @@
 ### Hi there. I'm @quillcraftsman (Levan Lomidze) 👋
-I am software develper from Georgia
+I am software developer from Georgia
 
 - 🔭 I’m currently working on several open source projects
 - 🌱 I’m currently teaching python
