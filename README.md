@@ -1,11 +1,5 @@
 ### Hi there. I'm @quillcraftsman (Levan Lomidze) 👋
 
-<hr>
-
-<a href="https://github.com/quillcraftsman">
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=quillcraftsman&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact&custom_title=🐢%20GitHub%20Stats%20" alt="quillcraftsman's GitHub Stats"/>
-</a>
-
 I am software developer from Georgia
 - 🔭 I’m currently working on several open source projects
 - 🌱 I’m currently teaching python
